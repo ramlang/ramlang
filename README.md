@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Hi! I'm Rachele!
 
-<!--
-**ramlang/ramlang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full stack software engineer with expierence in TypeScript, JavaScript, Ruby, and Golang based in Denver, Colorado.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I recently co-created [Campfire](https://campfire-previews.github.io/), an open-source, self-hosted CI/CD development tool for automating deploy previews with \
+a built-in UI that supports syncing of comments with GitHub.
+
+🔥 [Visit Campfire](https://campfire-previews.github.io/)
+
+:v: [My Website](#)
+
+
